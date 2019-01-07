@@ -1,5 +1,5 @@
-exports.TOKEN = '';
+exports.TOKEN = 'BOT_TOKEN';
 
-exports.PREFIX = 'm!';
+exports.PREFIX = '?';
 
-exports.GOOGLE_API_KEY = '';
+exports.GOOGLE_API_KEY = 'GOOGLE_API';
